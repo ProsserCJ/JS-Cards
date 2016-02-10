@@ -1,3 +1,3 @@
 # JS-Cards
 
-An old school project, posted to demonstrate JS experience
+An college project from Fall 2014, posted to demonstrate JS experience
